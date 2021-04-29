@@ -3,4 +3,5 @@ pymystem3
 networkx
 transformers
 pytorch-lightning
-
+sentencepiece
+rouge
